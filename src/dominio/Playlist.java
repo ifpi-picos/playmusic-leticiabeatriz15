@@ -18,7 +18,4 @@ public class Playlist {
     public void setMusicas(List<Musica> musicas) {
         this.musicas = musicas;
     }
-
-    
-
 }
